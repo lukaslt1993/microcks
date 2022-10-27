@@ -1,7 +1,7 @@
 {
   "swagger":"2.0",
   "info":{
-    "description":"BBB This is a sample Hello API",
+    "description":"CCC This is a sample Hello API",
     "version":"0.9",
     "title":"Hello API",
     "termsOfService":"http://swagger.io/terms/",
@@ -18,11 +18,11 @@
   "tags":[
     {
       "name":"hello",
-      "description":"BBB Simple Hello World sample"
+      "description":"CCC Simple Hello World sample"
     },
     {
       "name":"sample",
-      "description":"BBB Simple Hello World sample"
+      "description":"CCC Simple Hello World sample"
     }
   ],
   "schemes":["http"],
