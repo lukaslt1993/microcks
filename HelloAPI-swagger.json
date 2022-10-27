@@ -1,7 +1,7 @@
 {
   "swagger":"2.0",
   "info":{
-    "description":"This is a sample Hello API",
+    "description":"AAA This is a sample Hello API",
     "version":"0.9",
     "title":"Hello API",
     "termsOfService":"http://swagger.io/terms/",
@@ -18,11 +18,11 @@
   "tags":[
     {
       "name":"hello",
-      "description":"Simple Hello World sample"
+      "description":"AAA Simple Hello World sample"
     },
     {
       "name":"sample",
-      "description":"Simple Hello World sample"
+      "description":"AAA Simple Hello World sample"
     }
   ],
   "schemes":["http"],
